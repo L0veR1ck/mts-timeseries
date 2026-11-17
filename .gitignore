@@ -1,0 +1,7 @@
+.venv/
+.ruff_cache/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+1/data/
+1/ДЗ 1.docx
